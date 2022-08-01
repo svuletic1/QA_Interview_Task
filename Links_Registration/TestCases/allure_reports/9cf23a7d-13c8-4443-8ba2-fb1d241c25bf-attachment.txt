@@ -1,0 +1,5 @@
+
+2022-08-01 19:21:05,332 INFO ====== WebDriver manager ======
+2022-08-01 19:21:05,339 INFO Current google-chrome version is 103.0.5060
+2022-08-01 19:21:05,339 INFO Get LATEST chromedriver version for 103.0.5060 google-chrome
+2022-08-01 19:21:05,473 INFO Driver [C:\Users\stjep\.wdm\drivers\chromedriver\win32\103.0.5060.134\chromedriver.exe] found in cache
